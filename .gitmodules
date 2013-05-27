@@ -1,0 +1,3 @@
+[submodule "barcodescanner-plugin-source"]
+	path = barcodescanner-plugin-source
+	url = git://github.com/wildabeast/BarcodeScanner.git
