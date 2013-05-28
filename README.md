@@ -8,8 +8,8 @@ https://github.com/zeroasterisk/PhoneGap-BarcodeScanner-Example-iOS/commit/69f33
 
 Specifically:
 
-Instaleld the plugin (in a handful of paths) but kept the one which worked.
-Implementated a basic JS scanner code to demostrate functionality:
+Installed the plugin (in a handful of paths) but kept the one which worked.
+Implemented a basic JS scanner code to demonstrate functionality:
 auto-runs on load,
 auto-reloads on error,
 alerts on success/failure/cancel.
